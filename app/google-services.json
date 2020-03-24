@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "730245680170",
+    "firebase_url": "https://eat-it-7ff98.firebaseio.com",
+    "project_id": "eat-it-7ff98",
+    "storage_bucket": "eat-it-7ff98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730245680170:android:45373c68ad31f2e5d84753",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730245680170-fkllrovm5j6os5s8o8sulie9pi69bvus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkWChTXKdAKZQpzBK3fYTztZC_hhWIeqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730245680170-fkllrovm5j6os5s8o8sulie9pi69bvus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730245680170:android:95a0217bf9fa4912",
+        "android_client_info": {
+          "package_name": "com.example.gabela.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730245680170-164s29uavfpiqurkqsltumhgmm1nhtv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gabela.chatapp",
+            "certificate_hash": "af9727cb56fa7b234ee7532005035f305f2b3eee"
+          }
+        },
+        {
+          "client_id": "730245680170-fkllrovm5j6os5s8o8sulie9pi69bvus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkWChTXKdAKZQpzBK3fYTztZC_hhWIeqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730245680170-fkllrovm5j6os5s8o8sulie9pi69bvus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730245680170:android:f81de24ce8a5c9dc",
+        "android_client_info": {
+          "package_name": "com.example.gabela.eatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730245680170-pedj24fq6bof9mmg03npg86pgrf8moa0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gabela.eatit",
+            "certificate_hash": "867b5bbe65f756cb560df844c15cc53bb1601cb7"
+          }
+        },
+        {
+          "client_id": "730245680170-fkllrovm5j6os5s8o8sulie9pi69bvus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkWChTXKdAKZQpzBK3fYTztZC_hhWIeqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730245680170-fkllrovm5j6os5s8o8sulie9pi69bvus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
